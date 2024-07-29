@@ -1,0 +1,16 @@
+.bg-navy {
+    background-color: #001f3f;
+  }
+  
+  .bg-navy-darker {
+    background-color: #00152b;
+  }
+
+  .subMenuSettings {
+    color: white;
+    background-color: #001f3f!important;
+  }
+
+  .subMenuSettings:hover {
+    background-color: #001f3f!important;
+  }
